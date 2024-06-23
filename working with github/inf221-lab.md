@@ -77,3 +77,11 @@ root.render(
 ```
 
 ////addding link to jsx via a react-router tag
+
+## Adding tailwind forms
+
+--note not complete--
+
+add `require('@tailwindcss/forms'),` to plugins to access forms
+
+--library: react-hook-form.com --

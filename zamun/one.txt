@@ -1,0 +1,15 @@
+### QUERIES
+// SELECT
+// WHERE
+// AND, OR, NOT
+// ORDER BY
+
+// INSERT INTO
+// NULL values
+
+// DELETE
+// LIMIT
+
+// MIN, MAX, COUNT, AVG, SUM
+// IN, BETWEEN
+// AS <alias-name>
