@@ -6,6 +6,23 @@
 git clone https://github.com/kazoomarc/mdl.git
 ```
 
+## verify our repo
+
+```bash
+git remote -v
+```
+
+## creating a repo with description and gitignore online
+
+create a repo with description and git ignore
+clone the repository
+`cd` into the repo
+
+```bash
+git fetch origin main
+git pull origin main
+```
+
 ## repo with stuff offline to empty repo online
 
 ```bash
